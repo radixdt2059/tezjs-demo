@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_components_title_content_ctas",
+  "info": {
+    "displayName": "titleContentCta",
+    "icon": "align-justify",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "CTA": {
+      "type": "richtext"
+    },
+    "ComponentName": {
+      "type": "string"
+    },
+    "SlotName": {
+      "type": "string"
+    }
+  }
+}

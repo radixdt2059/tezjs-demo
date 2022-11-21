@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_components_ctas",
+  "info": {
+    "displayName": "CTA"
+  },
+  "options": {},
+  "attributes": {
+    "ComponentName": {
+      "type": "string"
+    },
+    "CTA": {
+      "type": "richtext"
+    }
+  }
+}
