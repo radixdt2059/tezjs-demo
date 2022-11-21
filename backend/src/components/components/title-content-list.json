@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_components_title_content_lists",
+  "info": {
+    "displayName": "titleContentList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ComponentName": {
+      "type": "string"
+    },
+    "SlotName": {
+      "type": "string"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "richtext"
+    },
+    "titleContent3Col": {
+      "displayName": "titleContent3Col",
+      "type": "component",
+      "repeatable": true,
+      "component": "components.title-content3-col"
+    }
+  }
+}
